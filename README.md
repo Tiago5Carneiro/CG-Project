@@ -26,6 +26,7 @@ Este projecto apresenta as seguintes funcionalidades :
  - Câmara com modo First Person e Orbital.
  - Texturas de alta qualidade e luzes (pontos de luz, luzes direcionais e focos de luz).
  - View Frustum Culling com bounding boxes.
+ - Post processing shaders.
 
 ## Demos
 
@@ -37,8 +38,4 @@ Este projecto apresenta as seguintes funcionalidades :
 <div align="center">
 <img src='media/crt_shader.png' width="45%"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src='media/outline_shader.png' width="45%"/>
 </div>
-
-### Vault of the Golden Biscuit
-
-<img src='media/vault_of_the_golden_biscuit.png'/>
 
